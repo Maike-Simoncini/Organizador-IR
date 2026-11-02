@@ -17,23 +17,12 @@ Este projeto tem como objetivo criar uma ferramenta em **Excel** para organizar 
 
 ## ⚡ Como Usar
 
-1. Baixe o arquivo Excel clicando aqui: [⬇️ Download dados_titular.xlsx](./dados_titular.xlsx)  
+1. Baixe o arquivo Excel dados_titular.xlsx.
 2. Preencha seus dados pessoais na aba **Titular**.  
 3. Insira os rendimentos bancários na aba **Informes**.  
 4. Registre entradas mensais na aba **Notas**.  
 5. Utilize as tabelas de apoio para validar códigos de bancos.  
 6. Gere relatórios e utilize os anexos para complementar sua declaração.  
-
----
-
-## ✅ Checklist de Preenchimento
-
-- [ ] Inserir dados pessoais completos na aba **Titular**  
-- [ ] Adicionar rendimentos bancários na aba **Informes**  
-- [ ] Registrar entradas mensais na aba **Notas**  
-- [ ] Conferir códigos de bancos na aba **Tabelas**  
-- [ ] Validar anexos e comprovantes  
-- [ ] Revisar relatório final antes da entrega da declaração  
 
 ---
 
